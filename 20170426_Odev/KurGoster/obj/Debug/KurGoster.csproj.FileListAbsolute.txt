@@ -1,0 +1,18 @@
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426_Odev\KurGoster\bin\Debug\KurGoster.exe.config
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426_Odev\KurGoster\obj\Debug\KurGoster.csprojResolveAssemblyReference.cache
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426_Odev\KurGoster\obj\Debug\KurGoster.FormKurGoster.resources
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426_Odev\KurGoster\obj\Debug\KurGoster.Properties.Resources.resources
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426_Odev\KurGoster\obj\Debug\KurGoster.csproj.GenerateResource.Cache
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426_Odev\KurGoster\bin\Debug\KurGoster.exe
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426_Odev\KurGoster\bin\Debug\KurGoster.pdb
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426_Odev\KurGoster\obj\Debug\KurGoster.exe
+c:\users\nbuy_ogrenci\documents\visual studio 2013\Projects\20170426_Odev\KurGoster\obj\Debug\KurGoster.pdb
+C:\Users\Crnyvrtrk\Desktop\Github\20170426_Odev\KurGoster\bin\Debug\KurGoster.exe.config
+C:\Users\Crnyvrtrk\Desktop\Github\20170426_Odev\KurGoster\obj\Debug\KurGoster.exe
+C:\Users\Crnyvrtrk\Desktop\Github\20170426_Odev\KurGoster\obj\Debug\KurGoster.pdb
+C:\Users\Crnyvrtrk\Desktop\Github\20170426_Odev\KurGoster\bin\Debug\KurGoster.exe
+C:\Users\Crnyvrtrk\Desktop\Github\20170426_Odev\KurGoster\bin\Debug\KurGoster.pdb
+C:\Users\Crnyvrtrk\Desktop\Github\20170426_Odev\KurGoster\obj\Debug\KurGoster.csprojResolveAssemblyReference.cache
+C:\Users\Crnyvrtrk\Desktop\Github\20170426_Odev\KurGoster\obj\Debug\KurGoster.FormKurGoster.resources
+C:\Users\Crnyvrtrk\Desktop\Github\20170426_Odev\KurGoster\obj\Debug\KurGoster.Properties.Resources.resources
+C:\Users\Crnyvrtrk\Desktop\Github\20170426_Odev\KurGoster\obj\Debug\KurGoster.csproj.GenerateResource.Cache
